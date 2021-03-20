@@ -21,4 +21,4 @@ Copy/paste into terminal:
 ```sh
 wget https://raw.githubusercontent.com/intsez/php7n8-fpm-autoinstall/master/php7n8-fpm-autoinstall.sh
 chmod +x php7n8-fpm-autoinstall.sh
-./php7.x-fpm_setup.sh
+./php7n8-fpm-autoinstall.sh
