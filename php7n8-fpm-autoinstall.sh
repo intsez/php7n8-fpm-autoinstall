@@ -11,8 +11,8 @@
 	clear
 	# Select Linux distribution
 	echo
-	echo "   1) Debian 10 (+derivatives e.g Raspbian)"
-	echo "   2) Ubuntu 16+ and flavors"
+	echo "   1) Debian 10 Server(+Raspbian)"
+	echo "   2) Ubuntu 16+ Server"
 	while [[ $DISTRO !=  "1" && $DISTRO != "2" ]]; do
 		echo
 		read -p "Select an option and press ENTER [1-2]: " DISTRO
